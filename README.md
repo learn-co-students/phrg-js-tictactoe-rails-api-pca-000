@@ -62,3 +62,4 @@ You can run the test suite in one of two ways:
 * [jQuery data()](https://api.jquery.com/jquery.data/)
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/js-tictactoe-rails-api'>jQuery Tic Tac Toe</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG jQuery Tic-Tac-Toe with a Rails API — Part 2</p>
