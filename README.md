@@ -56,10 +56,6 @@ You can run the test suite in one of two ways:
 ## Bonus(es)
 1. Once all of the tests are passing and you have a functionally awesome / awesomely functional tic-tac-toe game with persistence, try refactoring your front-end to use ES6 `class`es and other OO design patterns. Think about the domain you're trying to model — how many classes do you need? What are the relationships between classes?
 2. Implement a [memoization](https://www.sitepoint.com/implementing-memoization-in-javascript/) scheme for minimizing the amount of database calls your application makes.
-3. Modify the `GameSerializer` to include the `updated_at` attribute, and display the last-updated time next to each saved game in the DOM.
 
 ## Resources
 * [jQuery data()](https://api.jquery.com/jquery.data/)
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/js-tictactoe-rails-api'>jQuery Tic Tac Toe</a> on Learn.co and start learning to code for free.</p>
-<p data-visibility='hidden'>PHRG jQuery Tic-Tac-Toe with a Rails API — Part 2</p>
